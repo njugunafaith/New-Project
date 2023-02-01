@@ -1,0 +1,78 @@
+body{
+    background-color: rgba(255, 215, 53, 0.97);
+}
+.top{
+    display: flex;
+}
+.top-left{
+    width: 70%;
+}
+.top-left h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgba(255,148,13,0.97);
+    font-style: italic;
+    font-size: 90px;
+}
+.top-right{
+    display: flex;
+    margin-top: 100px;
+}
+.one{
+    border: unset;
+    border-radius: 30px;
+    width: 70px;
+    height: 50px;
+    background-color: cyan;
+    color: darkblue;
+}
+.two{
+    border: 1px solid #80fff0;
+    background-color: transparent;
+    color: lime;
+    width: 70px;
+    height: 50px;
+    border-radius: 20px;
+}
+.three{
+    border: unset;
+    border-radius: 15px;
+    width: 70px;
+    height: 50px;
+    background-color: rgba(255,21,48,0.97);
+    color: indigo;
+}
+.four{
+    border: unset;
+    border-radius: 5px;
+    background-color: rgba(106,255,7,0.97);
+    color: rgba(65,67,255,0.97);
+    width: 70px;
+    height: 50px;
+}
+.five{
+    border: unset;
+    border-radius: 20px;
+    width: 70px;
+    height: 50px;
+    background-color: rgba(252,3,255,0.97);
+    color: rgba(255,244,33,0.97);
+}
+.bottom{
+    width: 100%;
+    min-height: 60vh;
+}
+.bottom p{
+    color: rgba(34, 71, 255, 0.97);
+    font-size: 30px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+.center img{
+    margin-right: 30px;
+    width: 30%;
+    height: 50vh;
+}

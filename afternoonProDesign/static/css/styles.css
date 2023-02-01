@@ -1,0 +1,133 @@
+.banner-section{
+    height: 100vh;
+    background-image: url("../images/images (2).jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.banner-container h1{
+    color: #ffffff;
+    font-size: 40px;
+    font-family: "Baskerville Old Face";
+}
+.banner-container p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.btn-signup{
+    width: 200px;
+    border: unset;
+    border-radius: 100px;
+    background-color: #000000;
+    color: #ffffff;
+    height: 30px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.btn-signin{
+    width: 200px;
+    border: unset;
+    border-radius: 100px;
+    background-color: rgba(255, 98, 14, 0.97);
+    color: #ffffff;
+    height: 30px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.about-section, .about-container{
+    height: 100vh;
+}
+.top-about-container{
+    height: 50vh;
+    background-color: rgba(255,89,19,0.97);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-bottom: 20px;
+}
+.top-about-container h2,h4{
+    color: #ffffff;
+}
+.top-about-container p{
+    text-align: center;
+    color: #ffffff;
+}
+.top-about-container button{
+    padding: 10px;
+    color: rgba(255,89,19,0.97);
+    background-color: #ffffff;
+    border-radius: 100px;
+    border: unset;
+    width: 150px;
+    cursor: pointer;
+}
+.about-title-div{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-title-div h1 {
+    color: rgba(255,89,19,0.97);
+}
+.bottom-about-container{
+    height: 50vh;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.about-cards-div{
+    display: flex;
+}
+.card{
+    width: 25%;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.card img{
+    width: 80px;
+}
+.gallery-section ,.gallery-container{
+    height: 100vh;
+}
+.gallery-top-div{
+    height: 70vh;
+    width: 100%;
+}
+.gallery-top-div img{
+    width: 33%;
+    height: 35vh;
+}
+.gallery-bottom-div{
+    height: 30vh;
+    width: 100%;
+    background-color: rgba(0, 0, 25, 0.66);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.gallery-bottom-div h3{
+    color: white;
+}
+.login{
+    border-radius: 100px;
+    width: 150px;
+    height: 50px;
+    border: unset;
+}

@@ -1,0 +1,82 @@
+body{
+    background-color: rgba(11,253,255,0.95);
+}
+h1{
+    font-size: 70px;
+    color: rgba(255,14,240,0.95);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgba(148,255,37,0.95);
+}
+.a{
+    background-color: rgba(56,50,255,0.95);
+    color: rgba(255,203,139,0.95);
+    border: unset;
+    border-radius: 40px;
+    width: 130px;
+    height: 70px;
+}
+.b{
+    background-color: rgba(255,13,159,0.95);
+    color: rgba(40,255,242,0.95);
+    border: unset;
+    border-radius: 40px;
+    width: 130px;
+    height: 70px;
+}
+.c{
+    background-color: rgba(251,255,16,0.95);
+    color: rgba(127,121,255,0.95);
+    border: unset;
+    border-radius: 40px;
+    width: 130px;
+    height: 70px;
+}
+.d{
+    background-color: rgba(201,21,255,0.95);
+    color: darkblue;
+    border: unset;
+    border-radius: 40px;
+    width: 130px;
+    height: 70px;
+}
+p{
+    font-size: 20px;
+    color: #3832ff;
+}
+.intro-statement{
+    color: rgba(255, 139, 7, 0.95);
+}
+.intro{
+    color: rgba(255, 81, 26, 0.95);
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #000000;
+}
+h3{
+    color: #ccf8ff;
+    text-decoration: underline;
+    text-decoration-color: darkslateblue;
+    text-align: center;
+    font-size: 25px;
+}
+.zero{
+    color: #ff15db;
+}
+.one{
+    color: rgba(40, 255, 242, 0.95);
+}
+.two{
+    color: #6fff3e;
+}
+.first{
+    margin-right:35%;
+    margin-left: 35%;
+    width: 30%;
+    color: #8b1900;
+}
+.first,th,td{
+    border: 5px solid;
+    border-collapse: collapse;
+}

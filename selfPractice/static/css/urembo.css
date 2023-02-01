@@ -1,0 +1,92 @@
+body{
+    background-image: url("../images/gradient.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+.a{
+    background-color: rgba(11,255,101,0.76);
+    color: rgba(255,51,64,0.76);
+    border: unset;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+}
+.b{
+    background-color: darkblue;
+    color: rgba(127,126,255,0.76);
+    border: unset;
+    border-radius: 20px;
+    width: 120px;
+    height: 60px;
+}
+.c{
+    background-color: rgba(251,188,255,0.76);
+    color: rgba(255,54,71,0.76);
+    border: unset;
+    border-radius: 15px;
+    width: 110px;
+    height: 55px;
+}
+.d{
+    background-color: rgba(66,66,255,0.76);
+    color: lime;
+    border: unset;
+    border-radius: 25px;
+    width: 130px;
+    height: 75px;
+}
+.e{
+    background-color: rgba(75,245,255,0.76);
+    color: darkred;
+    border: unset;
+    border-radius: 30px;
+    width: 115px;
+    height: 65px;
+}
+.one{
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 45, 250, 0.76);
+}
+.two{
+    color: rgba(66,255,24,0.76);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
+p{
+    color: darkslateblue;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    color: rgba(255, 21, 36, 0.34);
+    text-decoration: underline;
+    text-decoration-color: rgba(110,255,26,0.76);
+    font-size: 60px;
+}
+.z{
+    width: 24.5%;
+    height: 25vh;
+}
+.y{
+    width: 24.5%;
+    height: 25vh;
+}
+.x{
+    width: 24.5%;
+    height: 25vh;
+}
+.w{
+    width: 24.5%;
+    height: 25vh;
+}
+.v{
+    width: 24.5%;
+    height: 25vh;
+}
+
+
+
+

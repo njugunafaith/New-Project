@@ -1,0 +1,251 @@
+.top{
+    background-color: #0000ff;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top h1{
+    color: #ff3044;
+    font-size: 50px;
+}
+.mid{
+    min-height: 60vh;
+    display: flex;
+}
+.mid-left{
+    background-color: #00ffff;
+    width: 30%;
+}
+.mid-left ol{
+    list-style-type: none;
+    margin-top: 20px;
+}
+.mid-right{
+    width: 70%;
+    background-color: rgba(250, 77, 255, 0.88);
+    padding-left: 20px;
+}
+.footer{
+    height: 10vh;
+    background-color: #00ff88;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer h5{
+    color: #fffa97;
+}
+.top{
+    height: 30vh;
+ }
+.div-one img{
+    width: 100%;
+    height: 40vh;
+}
+.div-two{
+    display: flex;
+
+}
+.div-two-card{
+    width: 25%;
+    padding: 5px;
+}
+.div-two-card img{
+    width: 100%;
+    height: 30vh;
+}
+.container{
+    background-image: url("../images/img4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.navigation-div{
+    display: flex;
+}
+.left-navigation{
+    width: 50%;
+    height: 50vh;
+    padding-right: 30px;
+}
+.right-navigation{
+    width: 50%;
+    height: 50vh;
+}
+.b-one{
+    border: unset;
+    background: unset;
+    color: #382eff;
+}
+.btn{
+    border: unset;
+    background: unset;
+    color: #4615ff;
+}
+h4{
+    color: rgba(255,35,42,0.97);
+}
+.wrapper-left{
+    width: 50%;
+}
+.div-three{
+    display: flex;
+}
+.div-three-card{
+    width: 25%;
+    padding: 5px;
+}
+.div-three-card img{
+    width: 100%;
+    height: 70vh;
+}
+.div-three-card-one p{
+    color: blue;
+    width: 100%;
+}
+.design-two-body{
+    background-image: url("../images/images (2).jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.new-navigation-div{
+    display: flex;
+}
+.new-left-navigation{
+    width: 50%;
+    align-items: center;
+}
+.new-left-navigation h1{
+    color: #ffffff;
+    padding-left: 20px;
+}
+.new-right-navigation{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.new-right-navigation button{
+    width: 200px;
+    margin-left: 10px;
+}
+.new-right-navigation img{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    margin-left: 10px;
+}
+.new-content-wrapper{
+    display: flex;
+    min-height: 80vh;
+}
+.new-left-wrapper{
+    width: 50%;
+    margin-top: 20vh;
+    padding-left: 20px;
+    color: #ffffff;
+}
+.btn-signup{
+    width: 150px;
+    height: 30px;
+    border: 1px solid #00ff88;
+    background-color: rgba(255, 111, 22, 0.97);
+    border-radius: 50px;
+    color: rgb(56, 46, 255);
+}
+.btn-sign in{
+    width: 150px;
+    height: 30px;
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    border-radius: 50px;
+    color: rgb(70, 21, 255);
+}
+.new-left-wrapper h1 span{
+    color: rgb(255, 127, 22);
+}
+.content{
+    display: flex;
+    background-image: url("../images/images.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.top-class-div{
+    display: flex;
+}
+.top-left{
+    width: 50%;
+    align-items: center;
+    height: 10vh;
+}
+.top-left h5{
+    color: #ffffff;
+    padding-left: 20px;
+}
+.top-right{
+    width: 50%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+.top-right button{
+    width: 200px;
+    margin-left: 10px;
+    background-color: transparent;
+    color: #ffffff;
+    border: unset;
+    align-items: center;
+}
+.top-right h1{
+    color: #ffffff;
+}
+.middle-class-div {
+    display: flex;
+    min-height: 70vh;
+    justify-content: center;
+}
+.middle-class-div h1,p {
+    color: #ffffff;
+    margin-top: 20vh;
+}
+.bottom-class-div{
+    background-color: rgba(255,98,14,0.97);
+    width: 100%;
+    padding: 200px;
+    height: 10vh;
+}
+.bottom-class-div h3 {
+    color: #ffffff;
+    margin-left: 300px;
+}
+.bottom-class-div h6{
+    color: #ffffff;
+    margin-left: 380px;
+}
+.bottom-class-div p{
+    color: #ffffff;
+}
+.bottom-class-div button{
+    border-radius: 50px;
+    width: 100px;
+    height: 50px;
+}
+.top-design{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top-design-left{
+    width: 50%;
+    align-items: center;
+    height: 10vh;
+}
+.top-design-left h3{
+    color: #ffffff;
+}
+.top-design-left button{
+    color: #ffffff;
+    background-color: transparent;
+
+}
